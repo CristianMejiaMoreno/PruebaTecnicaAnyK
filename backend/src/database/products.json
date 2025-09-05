@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Base Líquida Mate", "price": 25 },
+  { "id": 2, "name": "Polvo Compacto Translúcido", "price": 18 },
+  { "id": 3, "name": "Paleta de Sombras Nude", "price": 35 },
+  { "id": 4, "name": "Rímel Waterproof", "price": 15 },
+  { "id": 5, "name": "Delineador Líquido Negro", "price": 12 },
+  { "id": 6, "name": "Labial Mate Rojo", "price": 20 },
+  { "id": 7, "name": "Brillo Labial Gloss", "price": 10 },
+  { "id": 8, "name": "Corrector en Barra", "price": 14 },
+  { "id": 9, "name": "Rubor Compacto", "price": 22 },
+  { "id": 10, "name": "Brochas de Maquillaje Set x12", "price": 45 },
+  { "id": 11, "name": "Esponja Beauty Blender", "price": 8 },
+  { "id": 12, "name": "Crema Hidratante Facial", "price": 30 },
+  { "id": 13, "name": "Sérum Vitamina C", "price": 40 },
+  { "id": 14, "name": "Mascarilla Facial Arcilla", "price": 18 },
+  { "id": 15, "name": "Desmaquillante Bifásico", "price": 16 },
+  { "id": 16, "name": "Agua Micelar", "price": 22 },
+  { "id": 17, "name": "Perfume Floral 50ml", "price": 55 },
+  { "id": 18, "name": "Crema Corporal Nutritiva", "price": 28 },
+  { "id": 19, "name": "Exfoliante Facial", "price": 24 },
+  { "id": 20, "name": "Protector Solar SPF 50", "price": 35 }
+]
