@@ -27,12 +27,19 @@ Use **LEFT JOIN** para incluir tambien a los clientes que no tienen pedidos.
 ## 3.Top 3 productos mas caros
 
 ```sql
-SELECT id, name, price
-FROM products
-ORDER BY price DESC
-LIMIT 3;
+SELECT p.id, p.name, p.price
+FROM products p
+JOIN (
+  SELECT DISTINCT price
+  FROM products
+  ORDER BY price DESC
+  LIMIT 3
+) top_prices
+  ON p.price = top_prices.price
+ORDER BY p.price DESC;
 
 ```
+Esta consulta cumple el caso en el que hayan varios productos con el mismo precio un ej: 100, 90,90,80,70 devolveria 100,90,90 y 80 porque se incluyen los que esten en el top 3 de precios mas altos
 ## 4. Prevencion de SQL Injection en Node.js
 Se previene con consultas parametrizadas en caso de no tener un ORM, ya que en su mayoria previenen estos ataques en el proyecto, ej:
 
