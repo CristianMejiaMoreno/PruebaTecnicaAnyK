@@ -1,5 +1,5 @@
 
-# AnyLink_PruebaTecnica
+# Anyk_PruebaTecnica
 Hola Andres!
 
 Este repositorio contiene la solución a la prueba técnica, demostrando mis habilidades en el desarrollo full-stack con React.js en el frontend y Express.js en el backend.
