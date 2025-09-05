@@ -35,11 +35,11 @@ Para revisar las ramas en tu IDE de preferencia, clona el repositorio.
 **Si quieres empezar con la version basica:**
     
 ```bash
-git clone -b minimos  https://github.com/CristianMejiaMoreno/PruebaTecnicaAnylink.git PruebaTecnica_CristianMejia
+git clone -b minimos  https://github.com/CristianMejiaMoreno/PruebaTecnicaAnyK.git PruebaTecnica_CristianMejia
 ```
 **Para revisar la version completa:**
  ```bash
-git clone -b main https://github.com/CristianMejiaMoreno/PruebaTecnicaAnylink.git PruebaTecnica_CristianMejia
+git clone -b main https://github.com/CristianMejiaMoreno/PruebaTecnicaAnyK.git PruebaTecnica_CristianMejia
 ```
 
 ## Guía de Despliegue Local
