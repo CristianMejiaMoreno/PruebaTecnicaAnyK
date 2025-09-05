@@ -1,5 +1,5 @@
 
-# AnyLink_PruebaTecnica
+# Anyk_PruebaTecnica
 Hola Andres!
 
 Este repositorio contiene la solución a la prueba técnica, demostrando mis habilidades en el desarrollo full-stack con React.js en el frontend y Express.js en el backend.
@@ -35,11 +35,11 @@ Para revisar las ramas en tu IDE de preferencia, clona el repositorio.
 **Si quieres empezar con la version basica:**
     
 ```bash
-git clone -b minimos  https://github.com/CristianMejiaMoreno/PruebaTecnicaAnylink.git PruebaTecnica_CristianMejia
+git clone -b minimos  https://github.com/CristianMejiaMoreno/PruebaTecnicaAnyK.git PruebaTecnica_CristianMejia
 ```
 **Para revisar la version completa:**
  ```bash
-git clone -b main https://github.com/CristianMejiaMoreno/PruebaTecnicaAnylink.git PruebaTecnica_CristianMejia
+git clone -b main https://github.com/CristianMejiaMoreno/PruebaTecnicaAnyK.git PruebaTecnica_CristianMejia
 ```
 
 ## Guía de Despliegue Local
