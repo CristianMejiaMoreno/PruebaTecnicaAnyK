@@ -12,11 +12,11 @@ minimos: Esta rama contiene el proyecto base, enfocado exclusivamente en cumplir
 
 Como vi en la entrevista, comprendo que no tienes tiempo de revisar ambas ramas, pero por si lo deseas aca hay un url con un usuario y su password, esto lo hago con la intencion de ir mas alla de lo minimo y demostrar al 100% de lo capaz que soy para afrontar un nuevo desafio como lo podria ser AnyLink en mi carrera.
 
-https://readme.so/es/editor
+https://any-k-frontend.vercel.app/
 
-Usuario:
+Usuario:test@test.com
 
-Password:
+Password:Colombia2025*
 
 
 
