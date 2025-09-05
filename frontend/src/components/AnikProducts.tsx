@@ -88,7 +88,7 @@ export default function AnikProducts() {
 
   return (
     <div className="mx-5">
-      <div className="mb-8 mt-8">
+      <div className="mb-12 mt-8 space-y-6">
         <div className="flex justify-between items-center">
           <div>
             <h1 className="text-4xl font-bold text-gray-800 mb-2">Gestion de Productos de Maquillaje 💄💋</h1>
